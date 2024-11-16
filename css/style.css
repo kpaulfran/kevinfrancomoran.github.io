@@ -71,17 +71,17 @@ p{
 
 
 h1 span{
-  color:#2fa68e;
+  color:#037373;
 }
 
 
 ::selection {
-  background: #ada074;
+  background: #012E40;
   color:white;
 }
 
 ::-moz-selection {
-  background: #ada074;
+  background: #012E40;
   color:white;
 }
 
@@ -104,7 +104,7 @@ h1 span{
   width:100%;
   height:100%;
   z-index:10;
-  background:url('../img/background/start-page.jpg') #c0c0c0 bottom center fixed no-repeat;
+  background:url('../img/background/start-page.jpg') #D0D5D9 bottom center fixed no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -178,8 +178,8 @@ h1 span{
 
 .start-page .content .text .read-more:hover{
   color:white;
-  background: #ada074;
-  border:1px solid #ada074;
+  background: #012E40;
+  border:1px solid #012E40;
 }
 
 .start-page .content .arrow-down{
@@ -222,7 +222,7 @@ h1 span{
   position:relative;
   width:100%;
   height:90px;
-  background:#ada074;
+  background:#012E40;
   z-index:1000;
   display:none;
 }
@@ -259,7 +259,7 @@ h1 span{
   position:relative;
   width:100%;
   height:70px;
-  color:#333333;
+  color:#011826;
   font-size:18px;
   text-align:center;
   line-height:70px;
@@ -273,7 +273,7 @@ h1 span{
  }
 
 .menu-click li:hover {
-  color:#ada074;
+  color:#012E40;
  }
 
 
@@ -295,7 +295,7 @@ h1 span{
 }
 
 .menu-content .logo {
-   color:#333;
+   color:#011826;
    font-weight:700;
    font-size:24px;
    width:300px;
@@ -319,7 +319,7 @@ h1 span{
 }
 
 .menu-content li a{
-  color:#333;
+  color:#011826;
   font-size:16px;
   display: block;
   padding: 0 20px 0 20px;
@@ -332,11 +332,11 @@ h1 span{
 }
 
 .menu-content li.active a{
-  color:#ada074;
+  color:#012E40;
 }
 
 .menu-content li a:hover{
-  color:#ada074;
+  color:#012E40;
 }
 
 
@@ -379,7 +379,7 @@ h1 span{
 }
 
 .about-us p.title{
-  color: #a4a4a4;
+  color: #D0D5D9;
   margin:40px auto;
   width:300px;
   line-height:26px;
@@ -406,7 +406,7 @@ h1 span{
   font-size:14px;
   width:250px;
   margin:30px auto;
-  color:#a4a4a4;
+  color:#D0D5D9;
   line-height:26px;
   letter-spacing:0;
   position:relative;
@@ -440,7 +440,7 @@ h1 span{
 }
 
 .about-us .column-one .circle-one:hover{
-  border:2px solid #ada074;
+  border:2px solid #012E40;
 
 }
 
@@ -471,7 +471,7 @@ h1 span{
 }
 
 .about-us .column-two .circle-two:hover{
-  border:2px solid #ada074;
+  border:2px solid #012E40;
 }
 
 
@@ -547,9 +547,9 @@ h1 span{
 }
 
 .portfolio .portfolio-margin .read-more:hover{
-  background:#ada074;
+  background:#012E40;
   color:white;
-  border:1px solid #ada074;
+  border:1px solid #012E40;
 }
 
 .portfolio .portfolio-margin h1{
@@ -603,7 +603,7 @@ h1 span{
   position: absolute;
   width: 285px;
   height:100%;
-  background: rgba(173,160,116,1);
+  background: rgba(1,46,64,1);
   z-index: 2;
   opacity:0;
     -webkit-transition: all 0.6s ease-in;
@@ -621,7 +621,7 @@ h1 span{
   position: absolute;
   width: 285px;
   height:100%;
-  background: rgba(173,160,116,0.5);
+  background: rgba(1,24,38,0.5);
   z-index: 2;
   opacity:0;
   -webkit-transition: all 0.6s ease-in;
@@ -816,7 +816,7 @@ input{
   width:180px;
   height:40px;
   background:#f8f7f7;
-  border-top:1px solid #333;
+  border-top:1px solid #011826;
   border-bottom:0;
   border-left:0;
   border-right:0;
@@ -835,13 +835,13 @@ textarea{
 
   width:420px;
   height:150px;
-  border-top:1px solid #333;
+  border-top:1px solid #011826;
   border-bottom:0;
   line-height:20px;
   border-left:0;
   border-right:0;
   background:#f8f7f7;
-  color:#333;
+  color:#011826;
   font-weight:300;
   padding:15px 0 0 15px;
   font-family: 'Lato', sans-serif;
@@ -875,7 +875,7 @@ input.submit{
   position:fixed;
   bottom:0;
   width:100%;
-  background:#3c3c3c;
+  background:#011826;
 }
 
 .footer .logo{
@@ -910,7 +910,7 @@ input.submit{
 }
 
 .footer .menu-footer a:hover{
-  color:#ada074;
+  color:#012E40;
 }
 
 
